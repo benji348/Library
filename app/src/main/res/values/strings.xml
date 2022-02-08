@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">bnjLibrary</string>
+    <string name="allbooks">All Books</string>
+    <string name="bookDetails">Book Details</string>
+    <string name="alreadyReadBook">Read</string>
+    <string name="currentlyReandingBook">Reading</string>
+    <string name="favoriteBookDetails">Favorite</string>
+    <string name="wantToReadBook">Wish List</string>
+</resources>
